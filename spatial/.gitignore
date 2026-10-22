@@ -1,0 +1,3 @@
+results/maps.npz
+results/*_log.txt
+__pycache__/

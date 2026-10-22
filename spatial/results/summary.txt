@@ -1,0 +1,13 @@
+units: 620, sessions: 118, rats: 15
+thresholds (99th pct pooled shuffle): {'spatial_info': np.float64(1.1812650941224425), 'gridness': np.float64(0.8387207929312406), 'mvl': np.float64(0.26958729293503764)}
+
+cls       conjunctive grid x HD  grid (no HD data)  not classified  other spatial  pure grid  pure head direction  total
+layer                                                                                                                   
+MEC LII                       0                 10              38             12          9                    2     71
+MEC LIII                     36                  5              92             14         30                   50    227
+MEC LV                        6                  6              41              0          1                   64    118
+MEC LVI                       3                 15              70              5         15                   90    198
+unknown                       0                  0               0              0          0                    6      6
+
+hd decoding: 42 sessions (>=5 units), median error 37.8 vs chance 89.9; beat 5th pct of chance in 38
+pos decoding: 55 sessions (>=5 units), median error 43.7 vs chance 50.8; beat 5th pct of chance in 48
